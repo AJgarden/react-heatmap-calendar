@@ -1,2 +1,3 @@
-# react-heatmap-calendar
-Heat Map Calendar on React
+# React-Heatmap-Calendar
+
+[Demo Page](https://react-heatmap-calendar.herokuapp.com/)
